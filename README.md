@@ -89,7 +89,6 @@ python chat.py
 
 ## Exemplos de Perguntas e Respostas
 
-|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Pergunta                                                                 | Resposta                                                                                                 |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Qual é a capital da França?                                              | Não tenho informações necessárias para responder sua pergunta.                                           |
@@ -99,7 +98,7 @@ python chat.py
 | Qual o ano de fundação da empresa mais velha?                            | 1931                                                                                                     |
 | Qual o ano de fundação da empresa mais nova?                             | 2023                                                                                                     |
 | Qual a empresa com maior faturamento e em que ano se deu?                | Aliança Esportes ME, com faturamento de R$ 4.485.320.049,16; ano de fundação: 2002.                      |
-|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+
 ---
 
 ## Observações
