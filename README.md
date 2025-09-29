@@ -84,6 +84,9 @@ Execute o script do chat para iniciar a conversa:
 ```sh
 python chat.py
 ```
+### 4.3. Encerramento do Chat
+
+Digite 'sair' para encerrar o chat.
 
 ---
 
